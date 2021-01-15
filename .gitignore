@@ -1,0 +1,6 @@
+﻿# IDE
+.idea/
+
+# Binaries
+*/bin
+*/obj
